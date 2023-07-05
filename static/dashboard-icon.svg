@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="mdi-view-dashboard-outline" width="50" height="50" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <g>
+      <path d="M 19 5 L 19 7 L 15 7 L 15 5 L 19 5 M 9 5 L 9 11 L 5 11 L 5 5 L 9 5 M 19 13 L 19 19 L 15 19 L 15 13 L 19 13 M 9 17 L 9 19 L 5 19 L 5 17 L 9 17 M 21 3 L 13 3 L 13 9 L 21 9 L 21 3 M 11 3 L 3 3 L 3 13 L 11 13 L 11 3 M 21 11 L 13 11 L 13 21 L 21 21 L 21 11 M 11 15 L 3 15 L 3 21 L 11 21 L 11 15 Z" style="fill: rgb(255, 255, 255);"/>
+    </g>
+    <rect x="4.989" y="5.178" width="3.969" height="5.745" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+    <rect x="15.005" y="5.065" width="3.931" height="1.928" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+    <rect x="4.913" y="16.819" width="4.384" height="2.381" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+    <rect x="15.005" y="13.077" width="4.271" height="6.236" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+  </g>
+</svg>
